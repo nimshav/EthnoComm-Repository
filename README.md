@@ -1,3 +1,201 @@
 # EthnoComm-Repository
-This is a first attempt to utilize Github for academic "open source" collaborations within the area of the ethnography of communication (EOC).
-A complete guide for participation in this project will be provided in the near future.
+Updated (and hopefully complete) ethnocomm bibliography
+* Most recent publications (2015-present) are highlighted in this color
+Baxter, L. A. (1987). Symbols of relationship identity in relationship cultures. Journal of Social and Personal Relationships, 4, 261-280. 
+Baxter, L. (1993). “Talking things through” and “putting it in writing”: Two codes of communication in an academic institution. Journal of Applied Communication Research, 21(4), 313–326. DOI: 10.1080/00909889309365376
+Baxter, L. A. & Goldsmith, D. (1990). Cultural terms for communication events among some American high school adolescents. Western Journal of Speech Communication, 54, 377-394.
+Blum-Kulka, S. & Katriel, T. (1991). Nicknaming practices in families: A cross-cultural perspective.International and Intercultural Communication Annual, 15, 58-78.
+Boromisza-Habashi, D. (2017). Cultural communication, overview. In Kim, Y. Y. (Ed.), International Encyclopedia of Intercultural Communication (pp. 459-467). John Wiley and Sons.
+Boromisza-Habashi, D. (2016). What we need is good communication: Vernacular globalization in some Hungarian speech. International Journal of Communication, 10, 4600-4619.
+Boromisza-Habashi, D. (2015). Hate speech. In Tracy, K. (Ed.), International Encyclopedia of Language and Social Interaction (pp. 715-725). Wiley-Blackwell. 
+​​Boromisza-Habashi, D. (2015). The communal dilemma as a cultural resource in Hungarian political expression. In Hariman, R. & Cintron, R. (Eds.), Culture, Catastrophe, and Rhetoric: The Texture of Political Action (pp. 25-46). Berghahn Books. 
+Boromisza-Habashi, D. (2013). Speaking hatefully: Culture, communication, and political action in Hungary.Pennsylvania State University Press.
+Boromisza-Habashi, D. (2007). Freedom of expression, hate speech, and models of personhood in Hungarian political discourse. Communication Law Review, 7, 54-74. 
+Boromisza-Habashi, D. (2007). Freedom of expression, hate speech, and models of personhood in Hungarian political discourse. Communication Law Review, 7(1), 54-74.
+Boromisza-Habashi, D. (2010). How are political concepts ‘essentially’ contested? Language & Communication,30(4), 276-284. DOI:10.1016/j.langcom.2010.04.002
+Boromisza-Habashi, D., & Fang, Y. (2020). Rethinking the Ethnography of Communication’s conception of value in the context of globalization. Communication Theory.
+Boromisza-Habashi, D., & Xiong, B. (2019). Intercultural communication and security. In B. C. Taylor, & H. Bean (Eds.), The handbook of communication and security (pp. 121-135). New York: Routledge.
+Boromisza-Habashi, D., & Reinig, L. (2018). Speech genres and cultural value in the Anglo-American public speaking course as a site of language socialization. Journal of International and Intercultural Communication, 11(2), 117-135. doi:10.1080/17513057.2018.1428765
+Boromisza-Habashi, D., Sprain, L., Shrikant, N., Reinig, L., and Peters, K. (2018). Cultural discourse analysis within an ecosystem of discourse analytic approaches: Connections and boundaries. In Scollo, M. & Milburn, T. (Eds.), Engaging and transforming global communication through cultural discourse analysis: A tribute to Donal Carbaugh (pp. 297-311). Rowman & Littlefield.
+Boromisza-Habashi, D., Hughes, J., & Malkowski, J. (2016). Public speaking as cultural ideal: Internationalizing the public speaking curriculum. Journal of International and Intercultural Communication, 9(1), 20-34. doi: 10.1080/17513057.2016.1120847
+Boromisza-Habashi, D., & Pál, G. (2016). The discourse of dictatorship in Central Eastern Europe and the case of Hungarian “hate speech.” In D. Carbaugh (Ed.), The handbook of communication in cross-cultural perspective (pp. 287-298). New York, NY: Routledge.
+Boromisza-Habashi, D., & Parks, R. (2014). The communal function of social interaction on an online academic newsgroup. Western Journal of Communication, 78(2), 194-212. doi:10.1080/10570314.2013.813061 
+Boromisza-Habashi, D., & Martínez-Guillem, S. (2012). Comparing language and social interaction. In F. Esser & T. Hanitzsch (Eds.), Handbook of comparative communication research (pp. 134-147). New York: Routledge.
+Carbaugh, D. (2017). Terms for talk, take 2: Theorizing communication through its cultural terms and practices. In Carbaugh, D. (Ed.), The handbook of communication in cultural perspective (pp. 15-28). Routledge.
+Carbaugh, D. (2007). Cultural discourse analysis: The investigation of communication practices with special attention to intercultural encounters. Journal of Intercultural Communication Research, 36, 167-182. 
+Carbaugh, D. (2005). Cultures in conversation. Erlbaum. [Full text attached]
+Carbaugh, D. (1996). Situating selves: The communication of social identity in American scenes. State University of New York Press.
+Carbaugh, D. (1996). Naturalizing communication and culture. In Cantrill, G. J. & Oravec, L. C. (Eds.), The symbolic earth: Discourse and our creation of the environment (pp. 38-57). University Press of Kentucky.
+Carbaugh, D. (1995). The ethnographic communication theory of Gerry Philipsen and associates. In Cushman, P. D. & Branislav Kovačić, B. (Eds.), Watershed research traditions in human communication theory (pp. 269–297). State University of New York Press. 
+Carbaugh, D. (1989). Fifty terms for talk: A cross-cultural study. International and Intercultural Communication Annual, 13, 93-120.
+Carbaugh, D. (1988). Talking American: Cultural discourses on “Donahue”. Ablex. 
+Carbaugh, D., & Cerulli, T. (2017). Cultural discourse analysis. In Y. Y. Kim (Gen. Ed.) & K. L. McKay-Semmler (Assoc. Ed.), The international encyclopedia of intercultural communication (pp. 1-9). John Wiley & Sons. doi: I0.1002/9781118783665.ieicc0l l 7
+Carbaugh, D., Winter, U., Molina-Markham, E., van Over, B., Lie, S., & Grost, T. (2016). A model for investigating cultural dimensions of communication in the car. Theoretical Issues in Ergonomics Science, 17(3), 304-323.
+Carbaugh, D., & Boromisza-Habashi, D. (2015). Ethnography of communication. In K. Tracy (Ed.). International encyclopedia of language and social interaction (pp. 537-552). Wiley-Blackwell.
+Carbaugh, D., & Cerulli, T. (2013). Cultural discourses of dwelling: Investigating environmental communication as a place-based practice. Environmental Communication, 7(1), 4–23. doi.org/10.1080/17524032.2012.749296
+Carbaugh, D. & van Over, B. (2013). Interpersonal pragmatics and cultural discourse. Journal of Pragmatics, 58, 142-145.
+Carbaugh, D., Nuciforo, E. V., Molina-Markham, E., and van Over, B. (2011). Discursive reflexivity in the ethnography of communication: Cultural discourse analysis. Cultural Studies <-> Critical Methodologies, 11, 153-164.
+Carbaugh, D., Winter, W., van Over, B., Molina-Markham, E., & Lie, S. (2013). Cultural analyses of in-car communication. Journal of Applied Communication Research, 41(2), 195-201.
+Carbaugh, D. & Boromisza-Habashi, D. (2011). Discourse beyond language: Cultural rhetoric, revelatory insight, and nature. In Meyer, C. & Girke, F. (Eds.), The Rhetorical Emergence of Culture (pp. 101-118). Berghahn Books.
+Carbaugh, D., Boromisza-Habashi, D., and Ge, X. (2006). Dialogue in cross-cultural perspective: Deciphering communication codes. In Aalto, N. & Reuter, E. (Eds.), Aspects of Intercultural Dialogue: Theory, Research, Applications (pp. 27-46). Saxa Verlag.
+Carbaugh, D., Gibson, A. T., Milburn, T. (1997). A view of communication and culture: Scenes in an ethnic cultural center and a private college. In Kovačić, B. (Ed.). Emerging theories of human communication (pp. 1-24). State University of New York Press. 
+Carbaugh, D. & Hastings, O. S. (1992). A role for communication theory in ethnography and cultural analysis. Communication Theory, 2, 156-165. 
+Covarrubias, P. (2005). Culture, communication, and cooperation: Interpersonal relations and pronominal address in a Mexican organization. Rowman and Littlefield. 
+Coutu, L. (2008). Contested social identity and communication in text and talk about the Vietnam War. Research on Language and Social Interaction, 41(4), 387–407. DOI:10.1080/08351810802467845
+Coutu, L. M. (2000). Communication codes of rationality and spirituality in the discourse of and about Robert S. McNamara’s In Retrospect. Research on Language & Social Interaction, 33(2), 179–211. 
+Coutu, L. M. (1994). Feminist methodologies and the ethnography of communication. (unpublished manuscript).
+Danziger, R. & Kampf, Z. (2020). Interpretive constructs in contrast: The case of flattery in Hebrew and in Palestinian Arabic. Contrastive Pragmatics, 2(2), 137-167. 
+Dori-Hacohen, G. (2019). “Hitlahamut”: A term for unreasonable populist public talk in Israel. Discourse and Society, 30(2), 135-153.
+Dori-Hacohen, G. (2016). The tokbek as an Israeli term for talk: The potential for democratic carnival and the defective democratic reality. Israel studies in language and society, 9(1-2), 164-183. (Hebrew).
+Dori-Hacohen, G. & Shavit, N. (2013). The cultural meanings of Israeli tokbek (talk-back online commenting) and their relevance to the online democratic public sphere. International Journal of Electronic Governance, 6(4), 361-379.
+Dunsmore, K. (2020). On the edge of the American Revolution: The Nova Scotia Gazette in 1775. American Journalism, 37(4), 525-545. doi.org/10.1080/08821127.2020.1830626
+Dunsmore K. & Hickerson, A. (2020). Refugees and national identity in letters to the editor. International Journal of Communication, 14, 3458–3477.
+Dunsmore, K. (2019). Discourse of reciprocity: The role of the press in the US-Canada alliance. FDU Press, imprint of Rowman & Littlefield.
+Dunsmore, K. & Haspel, K. C. (2014). Bringing class to light and life: A case study of reality-based television discourse. Discourse, Context and Media, 6, 45–53. DOI:10.1016/j.dcm.2014.08.007.
+Dunsmore, K., Turns, J. & Yellin, J. (2011). Looking toward the real world: Student conceptions of engineering. Journal of Engineering Education, 100(2), 329-348.
+Dunsmore, K. & Lagos, T. (2008). Politics, media and youth: Understanding political socialization via video production in secondary schools. Learning, Media, and Technology, 33(1), 1-10.
+Fitch, L. K. (1998). Speaking relationally: Culture, communication, and interpersonal connection. Guilford.
+Fitch, L. K. (1994). The issue of selection of objects of analysis in ethnographies of speaking. Research on Language and Social Interaction, 27, 51-93.
+Gilbertz, S., & Milburn, T. (2011). Citizen Discourse on Contaminated Water, Superfund Cleanups, and Landscape Restoration: (Re)making Milltown, Montana. Cambria Press.
+Griefat, Y. & Katriel, T. (1989). Life demands “musayara”: Communication and culture among Arabs in Israel.International & Intercultural Communication Annual, 13, 121-138.
+Hahn, C., Jorgenson, J., & Leeds-Hurwitz, W. (2011). A curious mixture of passion and reserve: Understanding the etic/emic distinction. Éducation et Didactique, 5(3), 145-154.
+Hart, T. (2016). Learning how to speak like a “native”: Speech and culture in an online communication training program. Journal of Business and Technical Communication, 30(3), 285-321.
+Hart, T. (2012). (Re)negotiating speech codes in an online language learning community (Unpublished doctoral dissertation). University of Washington.
+Hastings, S. & Milburn, T. (2019). Olfaction and emotion: The quest for olfactory restoration in two speech communities. Journal of International and Intercultural Communication, 12(2), 190-207. DOI: 10.1080/17513057.2019.1575452
+Heimann, G.  & Kampf, Z.(2021). “Flattery helps”: Relational practices in Statecraft. Language and Communication, 79, 22-32. 
+Heimann, G. & Kampf, Z. (2020). What makes them tick: Challenging the Impersonal Ethos in IR. Cooperation and Conflict. DOI: https://doi.org/10.1177/0010836720979012
+Hickerson, A. & Dunsmore, K. (2016). Locating refugees: A media analysis of refugees in the United States in “World Refugee Day” coverage. Journalism Practice, 10(3), 424-438.
+Ho, E. (2006). Behold the power of qi: The importance of qi in the discourse of acupuncture. Research on Language and Social Interaction, 39, 411-440. 
+Ho, E., Lie, S., Luk, P. L., and Dutta, M. J. (2019). Speaking of health in Singapore using the Singlish term “heaty”. In Milburn, T.  & Scollo, M. (Eds.), Engaging and Transforming Global Communication Through Cultural Discourse Analysis: A Tribute to Donal Carbaugh. Rowman & Littlefield.
+Hymes, D. (1974). Foundations in sociolinguistics: an ethnographic approach. University of Pennsylvania Press.
+Hymes, D. (1974). Ways of speaking. In Bauman, R. & Sherzer, J. (Eds.), Explorations in the Ethnography of Speaking (pp. 433-451). Cambridge University Press.
+Hymes, D. (1973). Speech and language: on the origins and foundations of inequality among speakers.Daedalus, 102(3), 59-85.
+Hymes, D. (1972). Models of the interaction of language and social life. In Gumperz, J. & and Hymes, D. (Eds.), Directions in Sociolinguistics: the Ethnography of Communication (pp. 35-71). Holt, Rinehart and Winston.
+Hymes, D. (1972). On communicative competence. In Pride, J. B. & Holmes, J. (Eds.), Sociolinguistics: Selected Readings (pp. 269-273). Penguin.
+Hymes, D. (1971). Sociolinguistics and the ethnography of speaking. In Ardener, E. (Ed.), Social Anthropology of Language (pp. 47-93). Tavistock.
+Hymes, D. (1967). Models of the interaction of language and social setting. Journal of Social Issues, 23(2), 8-28.
+Hymes, D. (1964). Introduction: Toward ethnographies of communication. In Gumperz, J. & Hymes, D. (Eds.), The ethnography of communication. American Anthropologist, 66(6), 1-34.
+Hymes, D. (1962). The ethnography of speaking. In Gladwin, T. & Sturtevant, C. W. (Eds.), Anthropology and Human Behavior (pp. 13-53). Anthropology Society of Washington.
+Kaplan-Weinger, J., & Ullman, C. (2015). Methods for the ethnography of communication: Language in use in schools and communities. Routledge.
+Kampf, Z. (2015). The politics of being insulted: the uses of hurt feelings in Israeli public discourse. Journal of Language Aggression and Conflict, 3(1), 107-127. 
+Kampf, Z. & Hamo, M. (2015). Children talking television: The salience and functions of media content in child peer interactions. Discourse and Communication, 9(4), 465-485.
+Kampf, Z. & Blum-Kulka, S. (2011). Why Israeli children are better at settling disputes than Israeli politicians?In Bargiela-Chiappini, F. & Kádár, D. (Eds.), Politeness Across Cultures (pp. 85-105). Palgrave Macmillan. 
+Kampf, Z. & Blum-Kulka, S. (2007). Do children apologize to each other? Apology events in young Israeli peer discourse. Journal of Politeness Research, 3(1), 11-27. 
+Katriel, T. (2021). Defiant discourse: Speech and action in grassroots activism. Routledge.
+Katriel, T.  (2016). The metapragmatics of direct utterances. In Alessandro, C. & Mey, J. L. (Eds.), Interdisciplinary Studies in Pragmatics, Culture and Society (pp. 745-766). Springer.
+Katriel, T. (2015). Expanding ethnography of communication research: Towards ethnographies of encoding.Communication Theory, 25(4), 454-459.
+Katriel, T. (2015). Dugri. In Tracy, K. et al. (Eds.), Encyclopedia of Language and Social Interaction (pp. 493-498). Blackwell.
+Katriel, T. (2012). Analyzing the social life of personal experience stories. In Holstein, J. & Gubrium, J. F. (Eds.), Varieties of Narrative Analysis (pp. 273-291). Sage. 
+Katriel, T. (2010). Lessons learned (unpublished manuscript). 
+Katriel, T. (2007). [Review of the book Culture, Communication and Cooperation: Interpersonal Relations and Pronominal Address in a Mexican Organization, by P. Covarrubias]. International Journal of Communication, 1, 83-85.
+Katriel, T. (2010). Communication as a cultural category. In Allan, S. (Ed.), Rethinking Communication: Keywords in Communication Research (pp. 2-4). Hampton Press.
+Katriel, T. (2004). Dialogic Moments: From soul talks to talk radio in Israeli culture (Raphael Patai series on Jewish Folklore and Ethnography). Wayne State University Press. 
+Katriel, T. (1999). Keyword: Patterns of culture and communication in Israel (a Hebrew selection of twelve essays covering and integrating work previously published in English). University of Haifa Press & Zmora-Bitan.
+Katriel, T. (1998). [Review of the book Natural Histories of Discourse by M. Silverstein & G. Urban]. Journal of Linguistic Anthropology, 8(1), 111-113.
+Katriel, T. (1997). Performing the past: A study of Israeli settlement museums. Lawrence Erlbaum.
+Katriel, T. (1994). Dugri speech. In Asher, R. E. (Ed.), Encyclopedia of Language and Linguistics (pp. 1069-1071). Pergamon Press.
+Katriel, T. (1993). “Lefargen”: A study in Israeli semantics of social relations. Research on Language and Social Interaction, 26(1), 31-53.
+Katriel, T. (1991). Communal webs: Communication and culture in contemporary Israel (cross-listed in series on anthropology and Judaic studies, and series on human communication processes). SUNY Press.
+Katriel, T. (1990). “Sodot”: Secret‐sharing as a social form among Israeli children. Research on Language and Social Interaction, 24, 141-157.
+Katriel, T. (1988/89). “Haxlafot”: Rules and strategies in children’s swapping exchanges. Research on Language and Social Interaction, 22, 157-178.
+Katriel, T. (1988). “Gibush”: A study in Israeli cultural semantics. Anthropological Linguistics, 30(2), 199-213.
+Katriel, T. (1987). Rhetoric in flames: “Fire inscriptions” in Israeli youth movement ceremonials. The Quarterly Journal of Speech, 73, 444-459.
+Katriel, T. (1987). “Bexibudim!”: Ritualized sharing among Israeli children. Language in Society, 16, 305-320.
+Katriel, T. (1986). Talking straight: Dugri speech in Israeli sabra culture (series on the social and cultural foundations of Language). Cambridge University Press. [Full text attached]
+Katriel, T. (1985). “Brogez”: Ritual and strategy in Israeli children’s conflicts. Language in Society,14, 467-490.
+Katriel, T. (1985). “Griping” as a verbal ritual in some Israeli discourse. In M. Dascal (ed.) Dialogue: An Interdisciplinary Approach.  Amsterdam: John Benjamins, 373-387.
+Katriel, T. & Gutman, Y. (in press). “Where do you do holocaust day?” “Zikaron basalon” as an alternative commemoration ritual. In H. Hazan, R. Shar’abi, and I. Cicourel (Eds.), Betwixt and between: Ritual and text in a changing society. (Hebrew).
+Katriel, T. & Livio, O. (2019). When discourse matters: Temporality in discursive action. In Scollo, M. & Milburn, T. (Eds.), Engaging and Transforming Global Communication through Cultural Discourse Analysis(pp. 57-72). Rowman & Littlefield.
+Katriel, T. & Shavit, N. (2013). “Speaking out”: Testimonial rhetoric in Israeli soldiers’ dissent. Versus: Quaderni di Studi Semiotici, 116, 81-105.
+Katriel, T. & Nesher, P. (1986). Gibush: The rhetoric of cohesion in Israeli school culture. Comparative Education Review, 30, 216-231.
+Katriel, T. & Philipsen, G. (1981). “What we need is communication”: “Communication” as a cultural category in some American speech. Communication Monographs, 48, 301-317.
+Kotani, M. (2017). Dynamic nature of boundaries of speech communities: Learning and negotiating codes in intercultural communication. Journal of Intercultural Communication Research, 46,  463-477. Oxford, England: Routledge. ​​
+Kotani, M. (2016). Two codes for remedying problematic situations: Japanese and English speakers’ views of explanations and apologies in the United States. Journal of Intercultural Communication Research, 45, 126-144. Oxford, England: Routledge. 
+Kotani, M. (2008). Reinforced codes and boundaries: Japanese speakers’ remedial episode avoidance in problematic situations with “Americans.” Research on Language and Social Interaction, 41, 339-363. New York/London: Routledge. 
+Leeds-Hurwitz, W. (2019). Thick description. In Atkinson, P., Delamont, S., Hardy, A. M., and Williams, M. (Eds.), SAGE Research Methods: Foundations. DOI: 10.4135/9781526421036765746
+Leeds-Hurwitz, W. (2016). Further expansions of ethnography of communication research: A response to Katriel. Ethnocomm E-Seminar (pp. 1-9). 
+Leeds-Hurwitz, W. (2015). Thick description. In K. Tracy, C. Ilie & T. Sandel (Eds.), International encyclopedia of language and social interaction (vol. 3, pp. 1515-1520). John Wiley & Sons. DOI: 10.1002/9781118611463/wbielsi072
+Leeds-Hurwitz, W. (2010). The emergence of language and social interaction research as a specialty. In W. Leeds-Hurwitz (Ed.), The social history of language and social interaction research: People, places, ideas(pp. 3-60). Hampton Press.
+Leeds-Hurwitz, W. (Ed.). (2010). The social history of language and social interaction research: People, places, ideas. Hampton Press.
+Leeds-Hurwitz, W. (2009). Social interaction theories. In S. Littlejohn & K. Foss (Eds.), Encyclopedia of communication theory (pp. 899-905). Sage.
+Leeds-Hurwitz, W. (2005). Making marriage visible: Wedding anniversaries as the public component of private relationships. Text, 25(5), 595-631.
+Leeds-Hurwitz, W. (Ed.). (2005). Celebrating anniversaries: Marking accomplishments over time. Text (special issue), 25(5).
+Leeds-Hurwitz, W. (2004). Ethnography. In K. Fitch & R. Sanders (Eds.), Handbook of language and social interaction (pp. 327-353). Lawrence Erlbaum Associates. 
+Leeds-Hurwitz, W. (2002). Wedding as text: Communicating cultural identities through ritual. Lawrence Erlbaum.
+Leeds-Hurwitz, W. (1993). Semiotics and communication: Signs, codes, cultures. Lawrence Erlbaum.
+Leeds-Hurwitz, W. (1990). Culture and communication: A review essay. Quarterly Journal of Speech, 76, 85-96.
+Leeds-Hurwitz, W. (1989). Communication in everyday life: A social interpretation. Ablex.
+Leeds-Hurwitz, W. (1987). The social history of the natural history of an interview: A multidisciplinary investigation of social communication. Research on Language and Social Interaction, 20, 1-51.     
+Leeds-Hurwitz, W. (1984). On the relationship of the “ethnography of speaking” to the “ethnography of communication”. Papers in Linguistics: International Journal of Human Communication, 17(1), 7-32.
+Leeds-Hurwitz, W. (1980). The use and analysis of uncommon forms of address: A business example. Working Papers in Sociolinguistics, Number 80. [Revised for inclusion in Leeds-Hurwitz 1989]
+Leeds-Hurwitz, W., & Kendon, A. (2021). The Natural History of an Interview and the microanalysis of behavior in social interaction: A critical moment in research practice. In J. McElvenny & A. Ploder (Eds.), Holisms of communication: The early history of audio-visual sequence analysis (pp. 145-200). Language Science Press.
+Leighter, J., Rudnick, L., & Edmonds, T. (2013). How the ethnography of communication provides resources for design. Journal of Applied Communication Research, 42(2), 209-215.
+Leighter, J. L., & Black, L. W. (2010). “I’m just raising the question”: Terms for talk and practical metadiscursive argument in public meetings. Western Journal of Communication, 74, 547-568.
+Leighter, J. L., Black, L. W., Cockett, L. S., & Jarmon, L. (2009). The practice of public meetings: Introduction to the special issue. International Journal of Public Participation, 3(2), 1-13.
+Leighter, J. L., & Castor, T. (2009). What are we going to “talk about” in this public “meeting”?: An examination of talk about communication in the North Omaha Development Project. International Journal of Public Participation, 3(2), 57-75.
+Lie, S. (2020). Asian American Buddhist identity talk: Natural criticism of Buddhism in the U.S.. Journal of Communication and Religion, 43(2), 6-21.
+Lie, S. (2018). How best to evangelize to nonbelievers: Cultural persuasion in American and Chinese Indonesian evangelical Christian discourse on relational evangelism. Journal of International and Intercultural Communication, 11(1), 42-57. DOI: 10.1080/17513057.2017.1349920.
+Lie, S. (2016). Effective evangelism: Discourse surrounding best evangelical practices in a Chinese Indonesian Reformed Evangelical (CIREC) community in Boston, MA. In D. Carbaugh (ed.), The handbook of communication in cross-cultural perspective (International Communication Association Series). Taylor and Francis.
+Lie, S., Boyraz, M., and Huang-Horowitz, N. (in press). What does it mean to be a polytechnic university? Cultural discourse analysis of organizational identity. Western Journal of Communication. 
+Lie, S., & Sandel, T. (2020). Unwelcomed guests: Cultural discourse analysis of comments on ethnic Chinese in Indonesian social media. Journal of Chinese Overseas, 16(1), 31-57. 
+Lie, S. & Shrikant, N. (2019). Editors’ statement for special issue: Stretching the boundaries of international and intercultural communication studies. Journal of International and Intercultural Communication, 12(2), 105-110. DOI: 10.1080/17513057.2019.1580381
+Lum, C. M. K. (1996). In search of a voice: Karaoke and the construction of identity in Chinese America.Lawrence Erlbaum.
+Milburn, T. (2015). Communicating user experience: Applying local strategies research to digital media design. Lexington Books.
+Milburn, T. (2015). Speech community. In Tracy, K., Ilie, C., and Sandel, T. (Eds.), The International Encyclopedia of Language and Social Interaction (pp. 1-5). John Wiley & Sons. DOI: 10.1002/9781118611463.wbielsi040
+Milburn, T. (2009). Nonprofit organizations: Creating membership through communication. Hampton Press.
+Milburn, T., Kenefick, J., and Lambert, A. (2005). Facilitating a board of directors’ planning retreat: Not-for-profit sensemaking. In Frey, L. (Ed.), Facilitating Group Communication: Innovations and Applications with Natural Groups (pp.3-28). Hampton Press.
+Milburn, T. (2004). Speech community: Reflections upon communication. In P. J. Kalbfleisch (Ed.). Communication Yearbook, 28, 410-440.
+Milburn, T. (2002). Collaboration and the construction of Puerto Rican community. In Orbe, P. M., McDonald, T.,  and Ford-Ahmed, T. (Eds.), Building Diverse Communities (pp.287-303). Hampton Press Inc. 
+Milburn, T., Wilkins, R., and Wolf, W. K. (2001). Reflexive moments: Negotiating researcher roles in participant observation. Iowa Journal of Communication, 33, 106-123.
+Milburn, T. (2000). Enacting “Puerto Rican time” in the United States. In Collier, J. M.(Ed.), Constituting Cultural Difference through Discourse (pp. 47-76). The International and Intercultural Communication Annual, 23. Sage Publications.
+Molina-Markham, E. (2017). “Drawing back to a sense of the whole”: Positioning practices in Quaker administrative meetings. In Carbaugh, D. (Ed.), The Handbook of Communication in Cross-cultural Perspective (pp. 353-354). Routledge.
+Molina-Markham, E. (2014). Finding the “sense of the meeting”: Decision making through silence among Quakers. Western Journal of Communication, 78(2), 155-174.
+Molina-Markham, E. (2013). Being spoken through: Quaker “vocal ministry” and premises of personhood.Journal of Communication and Religion, 36(3), 127-148.
+Molina-Markham, E. (2012). Lives that preach: The cultural dimensions of telling one’s “spiritual journey” among Quakers. Narrative Inquiry, 22(1), 3-23.
+Noy, H. (2017). Ethnography of Communication. In Matthes, J. (Ed.), The International Encyclopedia of Communication Research Methods (pp. 1-11). Wiley-Blackwell & Sons. DOI: 10.1002/9781118901731.iecrm0089. 
+Philipsen, G. (2008). Speech codes theory. In Donsbach, W. (Ed.), The international encyclopedia of communication (Vol. X, pp. 4771–4774). Blackwell.
+Philipsen, G. (2008). Speech codes theory and traces of culture in interpersonal communication. In Baxter, L. & Braithwaite, D. (Eds.), Engaging theories in interpersonal communication (pp. 269-280). Sage.
+Philipsen, G. (2002). Cultural communication. In Gudykunst, B. W. &  Mody, B. (Eds.), Handbook of international and intercultural communication (pp. 51-67). Sage. 
+Philipsen, G. (1997). A theory of speech codes. In Philipsen, G. & Albrecht, L. T. (Eds.), Developing communication theories (pp. 119-156). State University of New York Press. 
+Philipsen, G. (1992). Speaking culturally: Explorations in social communication. State University of New York Press.
+Philipsen, G. (1987). The prospect for cultural communication. In Lawrence, D. K. (Ed.), Communication theory: Eastern and Western perspectives (pp. 245-254). Academic. 
+Philipsen, G. (1977). Linearity of research design in ethnographic studies of speaking. Communication Quarterly, 25, 42-50. 
+Philipsen, G. (1975). Speaking “like a man” in Teamsterville: Culture patterns of role enactment in an urban neighborhood. Quarterly Journal of Speech, 61, 13-22. 
+Philipsen, G. & Hart, T. (2015). Speech Codes Theory. In (Eds.)? The International Encyclopedia of Language and Social Interaction. doi.org/10.1002/9781118611463.wbielsi178
+Philipsen, G, Coutu, M. L., and Covarrubias, P. (2005). Speech codes theory: Restatement, revisions, and a response to criticisms. In Gudykunst, B. W., (Ed.), Theorizing about intercultural communication (pp. 33–69). Sage. 
+Philipsen, G. & Coutu, M. L. (2005). The ethnography of speaking. In Robert E. Sanders, E. R. & Fitch, L. K (Eds.), Handbook of research on language and social interaction (pp. 355-379). Erlbaum.
+Philipsen, G. & Carbaugh, D. (1986). A bibliography of fieldwork in the ethnography of communication.Language in Society, 15, 387-397. 
+Rossmann, L. C. (2013). Transcending gangs: Latinas story their experience. Hampton Press.
+Radford, M. L., Radford, G. P., Connaway, L. S., and DeAngelis, J. A. (2011). On virtual face-work: An ethnography of communication approach to a live chat reference interaction. Library Quarterly, 81(4), 431-453.
+Reijven, M. H., & Townsend, R. M.  (2021). Communicative competence and local theories of argumentation: The case of academic citational practices. In D. Hample (Ed.), Local Theories of Argumentation (pp.497-503). Routledge. ISBN 9780367710354
+Rosenbaum, L., Winter. U. & van Over, B. (2018). Voice Persona Perceptions: Apologies in In-Car Speech Technologies. In M. Scollo & T. Milburn (Eds.) Cultural Discourse Analysis in Situated Contexts: A Tribute to Donal Carbaugh. Rowman & Littlefield.
+Rudnick, L., & Boromisza-Habashi, D. (2017). The emergence of a local strategies approach to human security.Journal of Multicultural Discourses, 12(4), 382-398.DOI: 10.1080/17447143.2017.1365079
+Saville-Troike, M. (2002). The ethnography of communication: An introduction. Wiley-Blackwell.
+Scollo, M., & Milburn, T. (2019). Engaging and transforming global communication through cultural discourse analysis: A tribute to Donal Carbaugh. Fairleigh Dickinson Press.
+Sotirova, N. (2020). “Good job, but Bulgarian”: Identifying “Bulgarian-ness” through cultural discourse analysis. Journal of International and Intercultural Communication, 14(4), 1-18. DOI:10.1080/17513057.2020.1760919
+Sotirova, N. (2018). A cry and an outcry: “Oplakvane” (complaining) as a term for communication practice. Journal of International and Intercultural Communication, 11(4), 304-323. DOI: 10.1080/17513057.2018.1479439
+Sotirova, N. (2016). “Oplakvane” [complaining] and what it teaches us about communication in Bulgarian discourse.  In Carbaugh, D. (ed.), The handbook of communication in cross-cultural perspective (International Communication Association Series). Taylor and Francis.
+Sprain, L., van Over, B., & Morgan, E. L. (2016). Divergent meanings of community: Ethnographies of communication in water governance. In T. R. Peterson, H. L. Begea, A. M. Feldpausch-Parker & K. Raitio (Eds.), Environmental communication and community: Constructive and destructive dynamics of social transformation (pp. 249-266). New York: Routledge.
+Sprain, L., & Boromisza-Habashi, D. (Eds.) (2013). Ethnographers of communication in applied communication research. Special forum. Journal of Applied Communication Research. 
+Sprain, L., & Boromisza-Habashi, D. (2013). The ethnographer of communication at the table: Building cultural competence, designing strategic action. Journal of Applied Communication Research, 41(2), 181-187. doi:10.1080/00909882.2013.782418 
+Sprain, L., & Boromisza-Habashi, D. (2012). Meetings: A cultural approach. Journal of Multicultural Discourses, 7, 179-189. doi:10.1080/17447143.2012.685743
+Townsend, R. M. (2021). “Eligible to Be Heard” in transportation planning. Journal of Applied Communication Research, 49(1), 3-23. https://DOI.org/10.1080/00909882.2020.1849768.   
+Townsend, R. M. (2019). Speaking for another polis. Iowa Journal of Communication, 51(2), 177-205.
+Townsend, R. M. (2018/2019). Deval Patrick on the power of rhetoric. The Howard Journal of Communications, 30(3), 299-315, online 11 Oct. 2018. https://doi.org/10.1080/10646175.2018.1491432.
+Townsend, R. M. (2018). Trump’s Warsaw address, or how the “west” was widened. Special issue on white supremacy in the age of Trump, Journal of Contemporary Rhetoric, 8(1/2), 84-106.http://contemporaryrhetoric.com/wp-content/uploads/2018/02/Townsend8_1_2_7.pdf
+Townsend, R. M. (2017). Transporting communication: Community college students facilitate deliberation in their own communities. In T. J. Shaffer, N. V. Longo, I. Manosevitch, & N. S. Thomas (Eds.), Deliberative pedagogy: Teaching and learning for democratic engagement (pp. 169-175). East Lansing, MI: Michigan State UP. https://muse.jhu.edu/book/52064  
+Townsend, R. M. (2014). Mapping routes to our roots: Student civic engagement in transportation planning.In A. Traver & Z. P. Katz (Eds.), Service-learning at the American community college: Theoretical and empirical perspectives (pp. 225-237). New York, NY: Palgrave Macmillan.
+Townsend, R. M. (2013). Engaging “others” in civic engagement through ethnography of communication. Journal of Applied Communication Research, 41, 202-208. 
+Townsend, R. M. (2009). Town meeting as a communication event: Democracy’s act sequence. Research on Language and Social Interaction, 42(1), 68-89.
+Townsend, R. M. (2006). Widening the circumference of scene: Local politics, local metaphysics. KBJournal,2(2), n.p.  www.kbjournal.org/townsend.   
+van Over, B., Carbaugh, D., Winter, U., Molina-Markham, E. & Lie, S. (2019). Communication in vehicles. DeGreuter.
+van Over, B. (2019). Evaluator in Chief. In J. McIntosh & N. Mendoza-Denton (Eds.) Language in the Trump era. Cambridge University Press.
+van Over, B., Dori-Hacohen, G. & Winchatz, M. R. (2018). Policing the Boundaries of the Sayable: The Public Negotiation of Profane, Prohibited and Proscribed Speech. In M. Scollo & T. Milburn (Eds.) Cultural Discourse Analysis in Situated Contexts: A Tribute to Donal Carbaugh. Rowman & Littlefield.
+van Over, B., Molina-Markham, E., Lie, S., & Carbaugh, D. (2016). Managing interaction with an in-car infotainment system. In N. Shaked & U. Winter (Eds.) Design of multimodal mobile interfaces (pp. 145-168).  De Gruyter.
+van Over, B. (2014). Tracing the decay of a communication event: The case of The Daily Show’s “Seat of Heat”. Text & Talk, 34(2), 187-208.doi.org/10.1515/text-2013-0043
+Verschueren, J. (2013). Ethnography of communication and history: A case study of diplomatic intertextuality and ideology. Journal of Linguistic Anthropology, 23(3), 142-159.
+Wilkins, R. & Wolf, K. (2014). Culture in Rhetoric. Peter Lang.
+Wilkins, R., Wolf, K., & Milburn, T. (2005). Teaching “culture” as an expressive practice. Texas Speech Communication Journal, 30(1), 86-88.
+Witteborn, S., Milburn, T., & Ho, E. (2013). The ethnography of communication as applied methodology: Insights from three case studies. Journal of Applied Communication Research, 41(2), 188-194.
+Witteborn, S., & Sprain, L. (2009). Grouping processes in a public meeting from an ethnography of communication and cultural discourse analysis perspective. International Journal of Public Participation, 3(2), 14-35.
+Wolf, K., Milburn, T., & Wilkins, R. (2008). Expressive practices: The local enactment of culture in the communication classroom. Business Communication Quarterly, 71(2), 171-183.
