@@ -1,10 +1,8 @@
 <head>
 This is a first attempt to create a collaborative "open source" project within the academic area of the ethnography of communication (EOC). The project is dedicated to the construction and maintenance of an overall bibliography. A complete guide for participation in this endeavour will be published in the near future.
-  
 </head>
 
 <body>
-
 <p class=MsoNormal style='margin-bottom:16.0pt;mso-layout-grid-align:none;
 text-autospace:none'><span style='font-size:14.5pt;font-family:"Arial",sans-serif'>Baxter,
 L. A. (1987). <a
@@ -1682,7 +1680,6 @@ href="https://www.academia.edu/8852124/Expressive_practices_The_local_enactment_
 style='color:#103CC0'> Expressive practices: The local enactment of culture in
 the communication classroom.</span></a> <i>Business Communication Quarterly</i>,<i>
 71</i>(2), 171-183.</span></p>
-
 </body>
-
+</head>
 </html>
