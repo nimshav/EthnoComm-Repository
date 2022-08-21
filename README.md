@@ -22,8 +22,10 @@
       <p>D) The standard of naming a content file for the EOC_Library is the following: [AUTHOR] - [YEAR] - [SHORT TITLE with a sentence-case capitalization].pdf 
       <p>Example:</p>
       <pre>Carbaugh - 1988 - Comments on “Culture” in Communication Inquiry.pdf</pre>    
+      <p><h4>Rules for Paper Includion</h4></p>
+      <p>This project is aimed specifically at scholars working within the narrow area of the Ethnography of Communication (EC, EoC, EOC -- or what have you). Therefore, the bibliography will include only materials that directly apply, develop or test the following approaches: EOC in its Hymsean register; Speech Code and Cultural Communication theory as developed by Gerry Philipsen and his collaborators; Cultural Discourse Analysis (CuDA) as developed by Donal Carbaugh and his collaborators; and Social Communication Theory as developed by Wendy Leeds-Hurwitz and her collaborators.</p>
       <p><h4>Guide for Contributours who don't Know how to Use GitHub</h4></p>
-      <p>At this preliminary point, please create a zip file that conains the following files:</p>
+      <p>At this preliminary point, please create a zipped folder with the following files:</p>
       <p>1. A pdf file of your content, formatted as shown above.</p>
       <p>2. A txt file that contans the publication's reference, in the html format described above if possible.</p> 
       <p><b>A more complete guide that explains how to report on and fix issues directly on GitHub, as well as to contribute code to the project will be published in the near future.</b><p>
