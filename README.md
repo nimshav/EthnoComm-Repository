@@ -22,7 +22,7 @@
       <pre>4. &lt;a href=&quot;https://doi.org/10.1002/9781118783665.ieicc0120&quot;&gt;https://doi.org/10.1002/9781118783665.ieicc0120&lt;/a&gt;&lt;/p&gt;</pre>
       <p>D) The standard of naming a content file for the EOC_Library is the following: [AUTHOR] - [YEAR] - [SHORT TITLE with a sentence-case capitalization].pdf 
       <p>Example:</p>
-      <pre> Carbaugh - 1988 - Comments on “Culture” in Communication Inquiry.pdf</pre>    
+      <pre>Carbaugh - 1988 - Comments on “Culture” in Communication Inquiry.pdf</pre>    
             
       <p><h4>Guide for Contributours who don't Know how to Use GitHub</h4></p>
       <p>At this preliminary point, please create a zip file that conains the following files:</p>
