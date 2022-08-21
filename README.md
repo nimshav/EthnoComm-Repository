@@ -22,14 +22,14 @@
             <pre>4. &lt;a href=&quot;https://doi.org/10.1002/9781118783665.ieicc0120&quot;&gt;https://doi.org/10.1002/9781118783665.ieicc0120&lt;/a&gt;&lt;/p&gt;</pre>
             <p>D) The standard of naming a content file for the EOC_Library is the following: [AUTHOR] - [YEAR] - [SHORT TITLE with a sentence-case capitalization].pdf 
             <p>Example:</p>
-            <pre> Carbaugh - 1988 - Comments on “Culture” in Communication Inquiry.pdf.</pre>    
+            <pre> Carbaugh - 1988 - Comments on “Culture” in Communication Inquiry.pdf</pre>    
             
-        <h4>Guide for Contributours who don't Know how to Use GitHub</h4>
+           <p>Guide for Contributours who don't Know how to Use GitHub</h4>
            <p>At this preliminary point, please create a zip file that conains the following files:</p>
            <p>A pdf file of your content, formatted as shown above.</p>
-           <p>A txt file that contans the publication's reference, in the html format described above if possible.>
+           <p>A txt file that contans the publication's reference, in the html format described above if possible.</p>
            
-        <h3>A more complete guide that explains how to report on and fix issues directly on GitHub, as well as to contribute code to the project will be published in the near future.
+           <p><b>A more complete guide that explains how to report on and fix issues directly on GitHub, as well as to contribute code to the project will be published in the near future.</b><p>
     
     </body>
 </html>
