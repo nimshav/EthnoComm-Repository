@@ -24,8 +24,8 @@
       <pre>Carbaugh - 1988 - Comments on “Culture” in Communication Inquiry.pdf</pre>    
       <p><h4>Guide for Contributours who don't Know how to Use GitHub</h4></p>
       <p>At this preliminary point, please create a zip file that conains the following files:</p>
-      <p>A pdf file of your content, formatted as shown above.</p>
-      <p>A txt file that contans the publication's reference, in the html format described above if possible.</p> 
+      <p>1. A pdf file of your content, formatted as shown above.</p>
+      <p>2. A txt file that contans the publication's reference, in the html format described above if possible.</p> 
       <p><b>A more complete guide that explains how to report on and fix issues directly on GitHub, as well as to contribute code to the project will be published in the near future.</b><p>
     </body>
 </html>
