@@ -24,7 +24,7 @@
             <p>Example:</p>
             <pre> Carbaugh - 1988 - Comments on “Culture” in Communication Inquiry.pdf.</pre>    
             
-        <h4>Guide for Contributours who don't Know how to Use GitHub
+        <h4>Guide for Contributours who don't Know how to Use GitHub</h4>
            <p>At this preliminary point, please create a zip file that conains the following files:</p>
            <p>A pdf file of your content, formatted as shown above.</p>
            <p>A txt file that contans the publication's reference, in the html format described above if possible.>
