@@ -17,10 +17,12 @@
             <p>Line 4: DOI reference and a hyperlink to its content.</p>
             <p>Example:</p>
             
-             ```&lt;p&gt;Carbaugh, D., &amp; Cerulli, T. (2013).
-                  &lt;a href=&quot;EOC_Library/Carbaugh and Cerulli - 2013 - Cultural Discourses of Dwelling Investigating Environmental Communication as a Place-based Practice.pdf&quot;&gt;Cultural discourses of dwelling: Investigating environmental communication as a place-based practice.&lt;/a&gt;
-                  &lt;i&gt;Environmental Communication&lt;/i&gt;, &lt;i&gt;7&lt;/i&gt;(1), 4&ndash;23. 
-   		          &lt;a href=&quot;https://doi.org/10.1080/17524032.2012.749296&quot;&gt;https://doi.org/10.1080/17524032.2012.749296&lt;/a&gt;&lt;p&gt;```       
-      </body> 
- 
+             ```
+             <p>Winchatz, M. R. (2018). 
+   		        <a href="EOC_Library/Winchatz 2018 - The International Encyclopedia of Intercultural Communication.pdf">
+   		        Ethnography of cultural communication</a>.
+   		        In Carbaugh, Donal (Ed.), <i>Handbook of Communication in Cross-Cultural Perspective</i> (pp. 65-75). Routledge.
+   		        <a href="https://doi.org/10.1002/9781118783665.ieicc0120">https://doi.org/10.1002/9781118783665.ieicc0120</a></p>
+   		     ```
+    <body>
  </html>
