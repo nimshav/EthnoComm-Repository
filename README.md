@@ -17,6 +17,12 @@
             <p>Line 3: DOI reference and a hyperlink to its content.</p>
             <p>Example:</p>
             <p><pre>&lt;p&gt;Carbaugh, D., &amp; Cerulli, T. (2013).
-   		    &lt;a href=&quot;EOC_Library/Carbaugh and Cerulli - 2013 - Cultural Discourses of Dwelling Investigating Environmental Communication as a Place-based Practice.pdf&quot;&gt;Cultural discourses of dwelling: Investigating environmental communication as a place-based practice.&lt;/a&gt;
-   		    &lt;i&gt;Environmental Communication&lt;/i&gt;, &lt;i&gt;7&lt;/i&gt;(1), 4&ndash;23. 
-   		    &lt;a href=&quot;https://doi.org/10.1080/17524032.2012.749296&quot;&gt;https://doi.org/10.1080/17524032.2012.749296&lt;/a&gt;&lt;p&gt;<pre></p>
+                            &lt;a href=&quot;EOC_Library/Carbaugh and Cerulli - 2013 - Cultural Discourses of Dwelling Investigating Environmental Communication as a Place-based Practice.pdf&quot;&gt;Cultural discourses of dwelling: Investigating environmental communication as a place-based practice.&lt;/a&gt;
+                            &lt;i&gt;Environmental Communication&lt;/i&gt;, &lt;i&gt;7&lt;/i&gt;(1), 4&ndash;23. 
+   		                    &lt;a href=&quot;https://doi.org/10.1080/17524032.2012.749296&quot;&gt;https://doi.org/10.1080/17524032.2012.749296&lt;/a&gt;&lt;p&gt;<pre></p>
+   		                    
+   		    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.4.0/highlight.min.js"></script>
+            <script>hljs.highlightAll();</script>    
+    </body>
+	   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.4.0/styles/atom-one-dark.min.css">   
+    </html>
