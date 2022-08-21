@@ -16,12 +16,8 @@
             <p>Line 3: Publication venue and details.</p>
             <p>Line 4: DOI reference and a hyperlink to its content.</p>
             <p>Example:</p>
-            
-                <pre>
-&lt;p&gt;Winchatz, M. R. (2018). 
-&lt;a href=&quot;EOC_Library/Winchatz 2018 - The International Encyclopedia of Intercultural Communication.pdf&quot;&gt;
-Ethnography of cultural communication&lt;/a&gt;.
-In Carbaugh, Donal (Ed.), &lt;i&gt;Handbook of Communication in Cross-Cultural Perspective&lt;/i&gt; (pp. 65-75). Routledge.
-&lt;a href=&quot;https://doi.org/10.1002/9781118783665.ieicc0120&quot;&gt;https://doi.org/10.1002/9781118783665.ieicc0120&lt;/a&gt;&lt;/p&gt;
-   		        </pre>
+            <pre>1. &lt;p&gt;Winchatz, M. R. (2018).</pre>
+            <pre>2. &lt;a href=&quot;EOC_Library/Winchatz 2018 - The International Encyclopedia of Intercultural Communication.pdf&quot;&gt; Ethnography of cultural communication&lt;/a&gt;.</pre>
+            <pre>In Carbaugh, Donal (Ed.), &lt;i&gt;Handbook of Communication in Cross-Cultural Perspective&lt;/i&gt; (pp. 65-75). Routledge.</pre>
+            <pre>&lt;a href=&quot;https://doi.org/10.1002/9781118783665.ieicc0120&quot;&gt;https://doi.org/10.1002/9781118783665.ieicc0120&lt;/a&gt;&lt;/p&gt;</pre>
    		        
