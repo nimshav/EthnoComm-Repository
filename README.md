@@ -25,7 +25,7 @@
       <p><h4>Rules for Inclusion</h4></p>
       <p>This project is aimed specifically at scholars working within the narrow area of the Ethnography of Communication (EC, EoC, EOC -- or what have you). Therefore, the bibliography will include only materials that directly apply, develop or test the following approaches: EOC in its Hymsean register; Speech Code and Cultural Communication theory as developed by Gerry Philipsen and his collaborators; Cultural Discourse Analysis (CuDA) as developed by Donal Carbaugh and his collaborators; and Social Communication Theory as developed by Wendy Leeds-Hurwitz and her collaborators. The first iteration of the bibliography will only accept references that make their content materials accessible in some way (ideally in the form of a pdf file as this is most stable).</p> 
       <p><h4>Guide for Contributours who don't Know how to Use Git</h4></p>
-      <p>At this preliminary point, please create a zipped folder with the following files:</p>
+      <p>At this preliminary point, please send me a zipped folder with the following files:</p>
       <p>1. A pdf file of your content, formatted as shown above.</p>
       <p>2. A txt file that contains the publication's reference, in the html format described above if possible.</p> 
       <p><b>A more complete guide that explains how to report on and fix issues directly on Github, as well as to contribute code to the project will be published in the near future.</b><p>
