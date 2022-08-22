@@ -7,7 +7,7 @@
    <body>
       <p><h4>Project Conventions and Production Standards</h4></p>
       <p>A) The bibliography is organized by year of publication from the top-down. Within each year, publications are organized by authors' names as accepted elswhere in the acadameia.</p>
-      <p>B) At this inittal point, the project is written as a single html file due to my (dis)abilities as a programmer. Participants who wish to implement code that I do not know how to write can do so only if they are willing to commit to the production process in the longrun. Such              
+      <p>B) The project is written as a single html file due to my (dis)abilities as a programmer. Participants who wish to implement code that I do not know how to write can do so only if they are willing to commit to the production process in the longrun. Such              
                  individuals are welcome to contact me directly at: <a href="https://00806.net/?page_id=7">00806.net</a>.</p>       
       <p>C) The html standard for coding an item in this bibliogrphy is the following:</p>
       <p>Line 1: Author name and year of publication.</p>
@@ -23,7 +23,7 @@
       <p>Example:</p>
       <pre>Carbaugh - 1988 - Comments on “culture” in communication inquiry.pdf</pre>    
       <p><h4>Rules for Inclusion</h4></p>
-      <p>This project is aimed specifically at scholars working within the narrow area of the Ethnography of Communication (EC, EoC, EOC -- or what have you). Therefore, the bibliography will include only materials that directly apply, develop or test the following approaches: EOC in its Hymsean register; Speech Code and Cultural Communication theory as developed by Gerry Philipsen and his collaborators; Cultural Discourse Analysis (CuDA) as developed by Donal Carbaugh and his collaborators; and Social Communication Theory as developed by Wendy Leeds-Hurwitz and her collaborators. Additionally, the first iteration of the bibliography will only accept references that make their content materials accessible for the users in some way (ideally in the form of a pdf file as this is most stable).</p> 
+      <p>This project is aimed specifically at scholars working within the narrow area of the Ethnography of Communication (EC, EoC, EOC -- or what have you). Therefore, the bibliography will include only materials that directly apply, develop or test the following approaches: EOC in its Hymsean register; Speech Code and Cultural Communication theory as developed by Gerry Philipsen and his collaborators; Cultural Discourse Analysis (CuDA) as developed by Donal Carbaugh and his collaborators; and Social Communication Theory as developed by Wendy Leeds-Hurwitz and her collaborators. The first iteration of the bibliography will only accept references that make their content materials accessible in some way (ideally in the form of a pdf file as this is most stable).</p> 
       <p><h4>Guide for Contributours who don't Know how to Use Git</h4></p>
       <p>At this preliminary point, please create a zipped folder with the following files:</p>
       <p>1. A pdf file of your content, formatted as shown above.</p>
