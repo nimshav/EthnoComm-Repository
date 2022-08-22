@@ -7,8 +7,7 @@
    <body>
       <p><h4>Project Conventions and Production Standards</h4></p>
       <p>A) The bibliography is organized by year of publication from the top-down. Within each year, publications are organized by authors' names as accepted elswhere in the acadameia.</p>
-      <p>B) The project is written as a single html file due to my (dis)abilities as a programmer. Participants who wish to implement code that I do not know how to write can do so only if they are willing to commit to the production process in the longrun. Such              
-                 individuals are welcome to contact me directly at: <a href="https://00806.net/?page_id=7">00806.net</a>.</p>       
+      <p>B) The project is written as a single html file due to my (dis)abilities as a programmer. Participants who wish to implement code that I do not know how to write can do so only if they are willing to commit to the production process in the longrun. Such individuals are welcome to contact me directly at: <a href="https://00806.net/?page_id=7">00806.net</a>.</p>       
       <p>C) The html standard for coding an item in this bibliogrphy is the following:</p>
       <p>Line 1: Author name and year of publication.</p>
       <p>Line 2: Title of publication and a hyperlink to its content.</p>
@@ -27,7 +26,7 @@
       <p><h4>Guide for Contributours who don't Know how to Use Git</h4></p>
       <p>At this preliminary point, please send me a zipped folder with the following files:</p>
       <p>1. A pdf file of your content, formatted as shown above.</p>
-      <p>2. A txt file that contains the publication's reference, in the html format described above if possible.</p> 
+      <p>2. A txt file that contains the publication's reference in the html format described above (if possible).</p> 
       <p><b>A more complete guide that explains how to report on and fix issues directly on Github, as well as to contribute code to the project will be published in the near future.</b><p>
     </body>
 </html>
