@@ -3,7 +3,7 @@
    <head>
       <h3>Updated (and hopefully complete) <a href="https://nimshav.github.io/EthnoComm-Repository/">EOC Bibliography</a></h3>
       <p><b>This is a first attempt to create a collaborative open source project within the academic area of the ethnography of communication (EOC). The project is dedicated to the construction and maintenance of an overall bibliography.</b></p>
-      <p>The bibliography is provided <b>AS IS</b>, i.e., without any intentional attempt to explain, interpret or thematize its content amterials. This is important as scholars might disagree about such issues. Hence, while the bibliogrphy can be variously used to arrive at such ideas, its presentation must remain as free from interpretation as possible. While this itself is an ideological statement, it is the best I can think of. By taking up this project I do not wish to appear as the spokesperson or interpretr of the field.</p>  
+      <p>The bibliography is provided <b>AS IS</b>, i.e., without any intentional attempt to explain, interpret or thematize its content amterials. This is important as scholars might disagree about such issues. Hence, while the bibliogrphy can be variously used to arrive at such ideas, its presentation must remain as free from interpretation as possible. While this itself is an ideological statement, it is the best one I can commit to. By taking up this project I do not wish to appear as the spokesperson or interpretr of the field.</p>  
    </head>
    <body>
       <p><h4>Project Conventions and Production Standards</h4></p>
