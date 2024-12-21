@@ -44,12 +44,8 @@
          <p>
             <a href="EOC_Library/Winchatz 2018 - The International Encyclopedia of Intercultural Communication.pdf">
             Ethnography of cultural communication</a>.
-         </p>
-         <p>
             In Carbaugh, Donal (Ed.), <i>Handbook of Communication in Cross-Cultural Perspective</i> 
             (pp. 65-75). Routledge.
-         </p>
-         <p>
             <a href="https://doi.org/10.1002/9781118783665.ieicc0120">
             https://doi.org/10.1002/9781118783665.ieicc0120</a>
          </p>
