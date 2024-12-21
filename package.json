@@ -1,11 +1,12 @@
 {
   "name": "eoc-bibliography",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "static ."
+    "start": "node server.js"
   },
   "dependencies": {
-    "node-static": "^0.7.11"
+    "express": "^4.18.2",
+    "path": "^0.12.7"
   }
 }
