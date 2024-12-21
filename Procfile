@@ -1,1 +1,1 @@
-web: node node_modules/.bin/static .
+web: node server.js
