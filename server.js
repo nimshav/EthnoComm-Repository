@@ -1,6 +1,7 @@
 // Import required modules
 const express = require('express');
 const path = require('path');
+const fs = require('fs');
 
 // Initialize the Express application
 const app = express();
@@ -11,13 +12,21 @@ app.use(express.static(path.join(__dirname, 'public')));
 // Define a fallback route for non-static file requests to serve the index.html file
 app.get('*', (req, res) => {
     const filePath = path.join(__dirname, 'public', req.path);
-    
-    // Check if the requested file exists in the public directory
-    if (path.extname(req.path) && !filePath.includes('index.html')) {
-        res.status(404).send('File not found');
-    } else {
-        res.sendFile(path.join(__dirname, 'public', 'index.html'));
-    }
+
+    // Check if the requested path corresponds to a valid file in the public directory
+    fs.access(filePath, fs.constants.F_OK, (err) => {
+        if (!err && path.extname(req.path)) {
+            // Serve the file if it exists
+            res.sendFile(filePath);
+        } else {
+            // Fallback to index.html for all other routes
+            res.sendFile(path.join(__dirname, 'public', 'index.html'), (error) => {
+                if (error) {
+                    res.status(500).send('Internal Server Error');
+                }
+            });
+        }
+    });
 });
 
 // Start the server on the correct port for Heroku
