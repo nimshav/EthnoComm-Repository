@@ -2,11 +2,11 @@
   "name": "eoc-bibliography",
   "version": "1.0.0",
   "main": "server.js",
-  "engines": {
-    "node": "16.x"
-  },
   "scripts": {
     "start": "node server.js"
+  },
+  "engines": {
+    "node": "16.x"
   },
   "dependencies": {
     "express": "^4.18.2",
