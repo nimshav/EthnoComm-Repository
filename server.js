@@ -8,9 +8,16 @@ const app = express();
 // Serve static files from the "public" directory, including "EOC_Library"
 app.use(express.static(path.join(__dirname, 'public')));
 
-// Define a fallback route to serve the index.html file
+// Define a fallback route for non-static file requests to serve the index.html file
 app.get('*', (req, res) => {
-    res.sendFile(path.join(__dirname, 'public', 'index.html'));
+    const filePath = path.join(__dirname, 'public', req.path);
+    
+    // Check if the requested file exists in the public directory
+    if (path.extname(req.path) && !filePath.includes('index.html')) {
+        res.status(404).send('File not found');
+    } else {
+        res.sendFile(path.join(__dirname, 'public', 'index.html'));
+    }
 });
 
 // Start the server on the correct port for Heroku
