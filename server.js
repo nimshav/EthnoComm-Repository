@@ -5,12 +5,12 @@ const path = require('path');
 // Initialize the Express application
 const app = express();
 
-// Serve static files from the "public" directory
+// Serve static files from the "public" directory, including "EOC_Library"
 app.use(express.static(path.join(__dirname, 'public')));
 
 // Define a fallback route to serve the index.html file
 app.get('*', (req, res) => {
-    res.sendFile(path.join(__dirname, 'index.html'));
+    res.sendFile(path.join(__dirname, 'public', 'index.html'));
 });
 
 // Start the server on the correct port for Heroku
