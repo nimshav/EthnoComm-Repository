@@ -1,19 +1,20 @@
-// server.js
+// Import required modules
 const express = require('express');
 const path = require('path');
 
+// Initialize the Express application
 const app = express();
 
-// Middleware to serve static files
+// Serve static files from the "public" directory
 app.use(express.static(path.join(__dirname, 'public')));
 
-// Route for serving index.html
-app.get('/', (req, res) => {
-  res.sendFile(path.join(__dirname, 'index.html'));
+// Define a fallback route to serve the index.html file
+app.get('*', (req, res) => {
+    res.sendFile(path.join(__dirname, 'index.html'));
 });
 
-// Start the server on the designated PORT or default to 3000
+// Start the server on the correct port for Heroku
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
-  console.log(`Server is running on port ${PORT}`);
+    console.log(`Server is running on port ${PORT}`);
 });
