@@ -2,7 +2,7 @@
    <head>
       <h3>
          Updated (and hopefully complete) 
-         <a href="https://nimshav.github.io/EthnoComm-Repository/">EOC Bibliography</a>
+         <a href="https://eoc-bibliography-0f9fc28e813a.herokuapp.com">EOC Bibliography</a>
       </h3>
       <p>
          <b>This project represents a first attempt to create a collaborative open-source platform 
